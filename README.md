@@ -1,8 +1,29 @@
-# Desafio-Diagrama-de-Classes-UML
+# [DIO](www.dio.me) - Bootcamp Bradesco - Java Cloud Native
 
-O projeto foi realizado com diagrama UML usando a ideia do Iphone foi lançando em 2007 Steven Jobs
+## Autores
+- [Gleyson Sampaio](https://github.com/glysns)
 
-e também projeto Iphone utilizando a Interface.
+### Modelagem e Diagramação de um Componente iPhone
 
-![Class Diagram0](https://user-images.githubusercontent.com/106537496/192070863-efad6c89-c70c-4023-a83f-e65df92259d0.png)
+Modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
+
+#### Contexto
+- Com base no vídeo de lançamento do iPhone de 2007 ,elaborar a diagramação das classes e interfaces utilizando uma ferramenta UML. 
+- Implementar as classes e interfaces no formato de arquivos `.java`.
+
+#### Funcionalidades a Modelar
+1. **Reprodutor Musical**
+   - Métodos: `tocar()`, `pausar()`, `selecionarMusica(String musica)`
+2. **Aparelho Telefônico**
+   - Métodos: `ligar(String numero)`, `atender()`, `iniciarCorreioVoz()`
+3. **Navegador na Internet**
+   - Métodos: `exibirPagina(String url)`, `adicionarNovaAba()`, `atualizarPagina()`
+
+### Objetivo
+1. Criar um diagrama UML que represente as funcionalidades descritas acima.
+2. Implementar as classes e interfaces correspondentes em Java (Opcional).
+
+### Exemplo de Diagrama UML 
+
+![ ](iphoneUML.jpg) 
 
